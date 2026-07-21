@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 All of my projects are available at **sidneiwill.dev**
+- 👨‍💻 All of my projects are available at **[sidneiwill.dev](https://sidneiwill.dev)**
 
 - 📫 How to reach me **sidnei.deolive@gmail.com**
 
